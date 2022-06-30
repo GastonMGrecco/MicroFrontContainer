@@ -1,0 +1,22 @@
+/*Telephone size*/
+.container{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.img{
+  width:50vw;
+  height:90vh;
+  background-image:url('https://img.freepik.com/vector-gratis/seguridad-datos-global-seguridad-datos-personales-ilustracion-concepto-linea-seguridad-datos-ciberneticos-seguridad-internet-o-privacidad-proteccion-informacion_1150-37336.jpg?w=2000');
+  background-repeat: no-repeat;
+  background-size:contain;
+  background-position: center;
+}
+
+@media only screen and (min-width: 700px){
+
+}
+@media only screen and (min-width: 1000px){
+
+}
